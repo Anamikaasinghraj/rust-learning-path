@@ -11,5 +11,5 @@ fn main() {
 
 let mut string_literal:String = String::from("Hii, orientalite!!!");
 string_literal.push_str(" What's up?");
-println!("Thi is string literal {}",string_literal);
+println!("Thi is string literal {}", string_literal);
 }
